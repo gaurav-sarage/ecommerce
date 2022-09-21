@@ -1,4 +1,4 @@
-import mongoose from "mongoose";
+import mongoose from 'mongoose'
 
 const orderSchema = mongoose.Schema({
     user: {
@@ -30,14 +30,14 @@ const orderSchema = mongoose.Schema({
 
     paymentMethod: {
         type: String,
-        required: true, 
+        required: true
     },
 
     paymentResult: {
         id: { type: String },
         status: { type: String },
         update_time: { type: String },
-        email_address: { type: String },
+        email_address: { type: String }
     },
 
     taxPrice: {
