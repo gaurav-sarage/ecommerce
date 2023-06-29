@@ -1,3 +1,16 @@
-# ecommerce
+# shopTronics
 
-Github user content: (https://user-images.githubusercontent.com/85820227/231498672-64b2e2ff-d987-45a3-bca6-5d8d89759360.png)
+# shopTronics is an eCommerce platform for electronic items that has been built using 
+
+==> **ReactJS**
+
+==> **Redux**
+
+==> **NodeJS**
+
+==> **ExpressJS**
+
+==> **MongoDB**
+
+
+# Video: https://www.loom.com/share/bf198e75fa8b486dac35792afaf28748?sid=e705ec2f-7237-4b26-9f7e-511c91e57442
