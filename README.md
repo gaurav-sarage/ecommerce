@@ -61,3 +61,8 @@ Learnt using the following:
 
 12. Custom error handler.
 
+13. Integrating the Strpe API.
+
+14. Environment variables.
+
+15. Project deployment.
