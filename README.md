@@ -28,36 +28,36 @@
 
 **10.** Mark orders as delivered option.
 
-11. Checkout process (shipping, payment method, etc).
+**11.** Checkout process (shipping, payment method, etc).
 
-12. Stripe payment integration.
+**12.** Stripe payment integration.
 
-13. Custom database seeder script.
+**13.** Custom database seeder script.
 
 
-Learnt using the following:
+# Learnt using the following:
 
-1. React with functional components & hooks.
+**1.** React with functional components & hooks.
 
-2. React router.
+**2.** React router.
 
-3. React-Bootstrap UI library.
+**3.** React-Bootstrap UI library.
 
-4. How to structure components.
+**4.** How to structure components.
 
-5. Component level state & props.
+**5.** Component level state & props.
 
-6. Managing global state with Redux (Actions & Reducers).
+**6.** Managing global state with Redux (Actions & Reducers).
 
-7. Using Redux state in components (useDispatch & useSelector).
+**7.** Using Redux state in components (useDispatch & useSelector).
 
-8. Creating an extensive back end with Express
+**8.** Creating an extensive back end with Express
 
-9. Working with a MongoDB database and the Mongoose ODM.
+**9.** Working with a MongoDB database and the Mongoose ODM.
 
-10. JWT authentication (JSON web tokens) with HTTP-Only cookie.
+**10.** JWT authentication (JSON web tokens) with HTTP-Only cookie.
 
-11. Creating custom authentication middleware.
+**11.** Creating custom authentication middleware.
 
 12. Custom error handler.
 
