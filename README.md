@@ -34,3 +34,26 @@ The **shopTronics** platform built has the following features"
 
 13. Custom database seeder script.
 
+
+Learnt using the following:
+
+1. React with functional components & hooks.
+
+2. React router.
+
+3. React-Bootstrap UI library.
+
+4. How to structure components.
+
+5. Component level state & props.
+
+6. Managing global state with Redux (Actions & Reducers).
+
+7. Using Redux state in components (useDispatch & useSelector).
+
+8. Creating an extensive back end with Express.
+
+9. Working with a MongoDB database and the Mongoose ODM.
+
+10. JWT authentication (JSON web tokens) with HTTP-Only cookie.
+
