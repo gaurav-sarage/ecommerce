@@ -65,4 +65,3 @@ Learnt using the following:
 
 14. Environment variables.
 
-15. Project deployment.
