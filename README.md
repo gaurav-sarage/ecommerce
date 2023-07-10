@@ -18,5 +18,14 @@ The **shopTronics** platform built has the following features"
 
 5. Product search feature.
 
+6. User profile with orders.
 
+7. Admin product management.
 
+8. Admin user management.
+
+9. Admin Order details page.
+
+10. Mark orders as delivered option.
+
+11. Checkout process (shipping, payment method, etc).
