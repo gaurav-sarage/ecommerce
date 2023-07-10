@@ -59,9 +59,9 @@
 
 **11.** Creating custom authentication middleware.
 
-12. Custom error handler.
+**12.** Custom error handler.
 
-13. Integrating the Strpe API.
+**13.** Integrating the Strpe API.
 
-14. Environment variables.
+**14.** Environment variables.
 
