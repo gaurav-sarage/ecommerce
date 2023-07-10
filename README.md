@@ -29,3 +29,8 @@ The **shopTronics** platform built has the following features"
 10. Mark orders as delivered option.
 
 11. Checkout process (shipping, payment method, etc).
+
+12. Stripe payment integration.
+
+13. Custom database seeder script.
+
