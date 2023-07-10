@@ -6,27 +6,27 @@
 
 **ReactJS**, **Redux**, **NodeJS**, **ExpressJS** & **MongoDB**
 
-The **shopTronics** platform built has the following features"
+# The **shopTronics** platform built has the following features:
 
-1. Full-featured shopping cart with quantity.
+**1.** Full-featured shopping cart with quantity.
 
-2. Product reviews and ratings.
+**2.** Product reviews and ratings.
 
-3. Top products carousel.
+**3.** Top products carousel.
 
-4. Product pagination.
+**4.** Product pagination.
 
-5. Product search feature.
+**5.** Product search feature.
 
-6. User profile with orders.
+**6.** User profile with orders.
 
-7. Admin product management.
+**7.** Admin product management.
 
-8. Admin user management.
+**8.** Admin user management.
 
-9. Admin Order details page.
+**9.** Admin Order details page.
 
-10. Mark orders as delivered option.
+**10.** Mark orders as delivered option.
 
 11. Checkout process (shipping, payment method, etc).
 
