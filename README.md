@@ -51,9 +51,13 @@ Learnt using the following:
 
 7. Using Redux state in components (useDispatch & useSelector).
 
-8. Creating an extensive back end with Express.
+8. Creating an extensive back end with Express
 
 9. Working with a MongoDB database and the Mongoose ODM.
 
 10. JWT authentication (JSON web tokens) with HTTP-Only cookie.
+
+11. Creating custom authentication middleware.
+
+12. Custom error handler.
 
